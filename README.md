@@ -1,16 +1,15 @@
-### Hi there 👋
+```bat
+C:\Github\Users\xylo1337> fetchprofile
+```
 
-<!--
-**xylo1337/xylo1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://cdn.discordapp.com/attachments/903088702627119149/905952147676491776/unnamed.png" width="200" /> 
 
-Here are some ideas to get you started:
+```csharp
+   xylo1337@github
+-----------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Alias  :  xylo
+      WIP  :  N/A
+Languages  :  Python, Lua
+  Discord  :  908693794965303297
+```
