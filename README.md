@@ -8,8 +8,8 @@ C:\Github\Users\xylo1337> fetchprofile
  xylo1337@github
 -----------------
 
-    Alias  :  xylo
+    Alias  :  xylo / tokyo
       WIP  :  N/A
 Languages  :  Python, Lua
-  Discord  :  908693794965303297
+  Discord  :  936764947076096060
 ```
